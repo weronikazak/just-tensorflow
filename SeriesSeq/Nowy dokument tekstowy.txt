@@ -1,0 +1,5 @@
+https://github.com/curiousily/Deep-Learning-For-Hackers/blob/master/12.time-series-demand_prediction.ipynb
+
+https://towardsdatascience.com/@curiousily
+
+https://www.tensorflow.org/tutorials/structured_data/time_series
