@@ -13,14 +13,14 @@ Different Tensorflow exercises. Exploring the possibilities of python ML library
 - ~~Build and train models for binary classification.~~ 
 - ~~Build and train models for multi-class categorization.~~ 
 - ~~Plot loss and accuracy of a trained model.~~ 
-- Identify strategies to prevent overfitting, including augmentation and dropout.
+- ~~Identify strategies to prevent overfitting, including augmentation and dropout.~~
 - ~~Use pretrained models (transfer learning).~~ 
-- Extract features from pre-trained models.
+- ~~Extract features from pre-trained models.~~
 - ~~Ensure that inputs to a model are in the correct shape.~~ 
 - ~~Ensure that you can match test data to the input shape of a neural network.~~ 
 - ~~Ensure you can match output data of a neural network to specified input shape for test data.~~ 
 - ~~Understand batch loading of data.~~ 
-- Use callbacks to trigger the end of training cycles.
+- ~~Use callbacks to trigger the end of training cycles.~~
 - ~~Use datasets from different sources.~~ 
 - ~~Use datasets in different formats, including json and csv.~~ 
 - ~~Use datasets from tf.data.datasets.~~ 
@@ -30,9 +30,9 @@ Different Tensorflow exercises. Exploring the possibilities of python ML library
 - ~~Build and train models to process real-world image datasets.~~
 - ~~Understand how to use convolutions to improve your neural network.~~
 - ~~Use real-world images in different shapes and sizes~~
-- Use image augmentation to prevent overfitting.
+- ~~Use image augmentation to prevent overfitting.~~
 - ~~Use ImageDataGenerator.~~
-- Understand how ImageDataGenerator labels images based on the directory structure
+- ~~Understand how ImageDataGenerator labels images based on the directory structure~~
 
 
 ### 3. Natural language processing (NLP)
@@ -50,8 +50,7 @@ Different Tensorflow exercises. Exploring the possibilities of python ML library
 ### 4. Time series, sequences and predictions
 - Train, tune and use time series, sequence and prediction models.
 - ~~Prepare data for time series learning.~~
-- Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of
-sequence models.
+- Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.
 - Use RNNs and CNNs for time series, sequence and forecasting models.
 - Identify when to use trailing versus centred windows.
 - ~~Use TensorFlow for forecasting.~~
