@@ -40,18 +40,18 @@ Different Tensorflow exercises. Exploring the possibilities of python ML library
 - ~~Prepare text to use in TensorFlow models.~~
 - ~~Build models that identify the category of a piece of text using binary categorization~~
 - ~~Build models that identify the category of a piece of text using multi-class categorization~~
-- Use word embeddings in your TensorFlow model.
-- Use LSTMs in your model to classify text for either binary or multi-class categorization.
-- Add RNN and GRU layers to your model.
-- Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
+- ~~Use word embeddings in your TensorFlow model.~~
+- ~~Use LSTMs in your model to classify text for either binary or multi-class categorization.~~
+- ~~Add RNN and GRU layers to your model.~~
+- ~~Use RNNS, LSTMs, GRUs and CNNs in models that work with text.~~
 - ~~Train LSTMs on existing text to generate text (such as songs and poetry)~~
 
 
 ### 4. Time series, sequences and predictions
-- Train, tune and use time series, sequence and prediction models.
+- ~~Train, tune and use time series, sequence and prediction models.~~
 - ~~Prepare data for time series learning.~~
-- Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.
-- Use RNNs and CNNs for time series, sequence and forecasting models.
+- ~~Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.~~
+- ~~Use RNNs and CNNs for time series, sequence and forecasting models.~~
 - Identify when to use trailing versus centred windows.
 - ~~Use TensorFlow for forecasting.~~
 - ~~Prepare features and labels.~~
